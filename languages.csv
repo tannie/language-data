@@ -37,6 +37,7 @@ as;Assamese;2;n > 1
 asa;Asu;2;n != 1
 ast;Asturian;2;n != 1
 av;Avaric;2;n != 1
+avk;Kotava;2;n != 1
 awa;Awadhi;2;n != 1
 ay;Aymará;1;0
 ayc;Aymara (Southern);2;n != 1
@@ -241,6 +242,7 @@ hit;Hittite;2;n != 1
 hmn;Hmong;2;n != 1
 hne;Chhattisgarhi;2;n != 1
 ho;Hiri Motu;2;n != 1
+hop;Hopi;2;n != 1
 hr;Croatian;3;n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2
 hrx;Hunsrik;2;n != 1
 hsb;Upper Sorbian;4;(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3))
@@ -322,6 +324,7 @@ lah;Lahnda;2;n != 1
 lam;Lamba;2;n != 1
 lb;Luxembourgish;2;n != 1
 lez;Lezghian;2;n != 1
+lfn;Lingua Franca Nova;2;n != 1
 lg;Luganda;2;n != 1
 li;Limburgish;2;n != 1
 lki;Laki;2;n != 1
@@ -554,7 +557,8 @@ tvl;Tuvalu;2;n != 1
 tw;Twi;2;n != 1
 ty;Tahitian;2;n != 1
 tyv;Tuvinian;2;n != 1
-tzj;Tz'utujil;2;n != 1
+tzj;Tz'utujil;2;n != 1  
+tzl;Talossan;2;n != 1
 tzm;Tamazight (Central Atlas);2;n >= 2 && (n < 11 || n > 99)
 udm;Udmurt;2;n != 1
 ug;Uyghur;2;n != 1
@@ -581,6 +585,7 @@ wal;Wolaytta;2;n != 1
 war;Waray (Philippines);2;n != 1
 was;Washo;2;n != 1
 wen;Sorbian;3;n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2
+wep;Westphalien;2;n != 1
 wo;Wolof;1;0
 xal;Kalmyk;2;n != 1
 xh;Xhosa;2;n != 1
